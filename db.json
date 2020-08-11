@@ -3,7 +3,7 @@
         "status": 1,
         "httpStatus": 200,
         "data":{
-        "data": " (offer_id in (1325075)) and ( fraud_percent > 50)"
+        "data": " (offer_id in (1325075))"
         }
     }
 }
