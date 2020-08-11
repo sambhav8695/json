@@ -3,7 +3,7 @@
         "status": 1,
         "httpStatus": 200,
         "data":{
-        "data": " (offer_id in (1325075)) and ( fraud(%) > 50) ; (offer_id in (1720072,1745433)) and ( valid_clicks > 2000 and tracker_cvr < 0.1) ; (offer_id in (1771225)) and ( valid_clicks > 10000 and revenue < 1) ; (offer_id in (450329)) and ( fraud(%) > 50) ; (offer_id in (1765086,1765336)) and ( fraud(%) > 5) ; (offer_id in (1772167,1754971)) and ( fraud(%) >= 50 and revenue <=1) ; (offer_id in (1757421,1020776,1757408,1540975,1541008,1407681,1757425,1757414)) and ( valid_clicks > 4000 and tracker_cvr < 0.1) "
+        "data": " (offer_id in (1325075)) and ( fraud > 50) ; (offer_id in (1720072,1745433)) and ( valid_clicks > 2000 and tracker_cvr < 0.1) ; (offer_id in (1771225)) and ( valid_clicks > 10000 and revenue < 1) ; (offer_id in (450329)) and ( fraud > 50) ; (offer_id in (1765086,1765336)) and ( fraud > 5) ; (offer_id in (1772167,1754971)) and ( fraud >= 50 and revenue <=1) ; (offer_id in (1757421,1020776,1757408,1540975,1541008,1407681,1757425,1757414)) and ( valid_clicks > 4000 and tracker_cvr < 0.1) "
         }
     }
 }
