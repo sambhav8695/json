@@ -1,0 +1,9 @@
+{
+    "response": {
+        "status": 1,
+        "httpStatus": 200,
+        "data":{
+        "data": " (offer_id in (1765094)) and ( ctit_24_percent < 10)"
+        }
+    }
+}
