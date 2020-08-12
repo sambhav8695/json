@@ -3,7 +3,7 @@
         "status": 1,
         "httpStatus": 200,
         "data":{
-        "data": " (offer_id in (1325075))"
+        "data": " (offer_id in (1774306)) and ( ctit_4_percent < 5) ; (offer_id in (1746575)) and ( valid_clicks > 20000 and revenue < 3) ; (offer_id in (1760451)) and ( invalid_clicks > 4000 )"
         }
     }
 }
